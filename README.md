@@ -1,4 +1,5 @@
 ShopZone 🛒
+
 Full Stack E-Commerce Platform
 ShopZone is a modern and scalable full-stack e-commerce web application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). It delivers a complete online shopping experience with secure authentication, smooth product browsing, shopping cart management, checkout system, admin controls, and integrated online payments.
 
